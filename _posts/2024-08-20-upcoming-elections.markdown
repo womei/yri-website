@@ -3,6 +3,7 @@ layout: post
 title:  "Join the OR!"
 date:   2024-08-20 09:51:41 +0200
 categories: elections
+permalink: /join-the-or/
 ---
 
 There will be elections for **7** PhD candidate seats in the OR on the **1st and 2nd of April 2025**! This means there is a chance for passionate PhDs to work towards a better TU Delft!
