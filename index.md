@@ -16,5 +16,5 @@ There will be elections for **7** PhD candidate seats in the OR on the **1st and
 
 Find more information [here](/join-the-or/).
 
-If you're intrested reach out to current YRI / OR member [Wo Meijer](https://www.tudelft.nl/io/over-io/personen/meijer-w) - w.i.m.t.meijer [at] tudelft.nl
+If you're interested reach out to current YRI / OR member [Wo Meijer](https://www.tudelft.nl/io/over-io/personen/meijer-w) - w.i.m.t.meijer [at] tudelft.nl
 
