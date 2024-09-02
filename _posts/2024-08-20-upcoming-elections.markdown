@@ -33,7 +33,7 @@ Being on the works council means that you represent the employees of the TU Delf
 - Monitor activities of the TU Delft to ensure compliance.
 - Focus on specific issues as a member of a sub-committee.
 
-Practically, the workload averages to 1 day a week (some weeks more time, some days less) mainly on Thursdays. PhD candidates will be compensated with a 4 month extension of their contract.
+Practically, the workload averages to 1 day a week (some weeks more time, some weeks less) mainly on Thursdays. PhD candidates will be compensated with a 4 month extension of their contract.
 
 ## Contact
 
