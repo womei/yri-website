@@ -33,7 +33,11 @@ Being on the works council means that you represent the employees of the TU Delf
 - Monitor activities of the TU Delft to ensure compliance.
 - Focus on specific issues as a member of a sub-committee.
 
-Practically, the workload averages to 1 day a week (some weeks more time, some weeks less) mainly on Thursdays. PhD candidates will be compensated with a 4 month extension of their contract.
+Practically, the workload averages to 1 day a week (some weeks more time, some weeks less) on Thursdays. PhD candidates will be compensated with a **4 month extension of their contract**.
+
+#### The OR
+
+The OR is a functionary body of the TU Delft, there is a [rich description of what the role of the OR is on the TU Delft Intranet](https://intranet.tudelft.nl/-/works-council). The OR is a body that is consulted by the Executive Board on a wide range of topics, such as the budget, the annual report, the strategic plan, and the policy on social safety. The OR has the right to advise on these topics and can also propose its own initiatives. The OR is also involved in the appointment of new members of the Executive Board and the Supervisory Board.
 
 ## Contact
 
