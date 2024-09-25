@@ -5,6 +5,8 @@ permalink: /about/
 ---
 YRI is a faction for the [TU Delft Works Council](https://www.tudelft.nl/en/about-tu-delft/organisation/consultation-bodies) founded in 2023. We aim to support Young Researchers (PhDs, Post Docs, and other early career researchers) by ensuring a safe, fair, and meaningful work environment for all employees.
 
+![YRI group photo](/assets/old-yri-group-photo.jpg)
+
 ## Who is YRI?
 
 Currently YRI has 6 members in the works council:
