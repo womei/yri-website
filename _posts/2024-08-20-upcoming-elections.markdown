@@ -20,7 +20,7 @@ If you're interested reach out to current YRI / OR member [Wo Meijer](https://ww
 
 There is only one hard requirement:
 
-- be employed by the TU Delft directly (not external PhD) for at least 6 months, i.e. 1st of October 2024
+- be employed by the TU Delft directly (not external PhD) for at least 6 months prior to the elections, i.e. 1st of October 2024
 
 However, it is important that candidates have the time, enthusiasm, and motivation to represent the employees of the TU Delft.
 
