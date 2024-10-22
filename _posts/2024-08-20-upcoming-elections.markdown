@@ -12,7 +12,7 @@ If you're interested reach out to current YRI / OR member [Wo Meijer](https://ww
 
 ### Dates
 
-- October _TBD_, 2024: information session
+- November 21, 2024: information session at Building 26-B - 2nd floor meeting room
 - March 4, 2025: deadline to register with a faction (do this by reaching out to that fraction)
 - April 1 & 2, 2025: election day
 
