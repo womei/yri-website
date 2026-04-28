@@ -12,9 +12,7 @@ YRI (Young Researchers Impact) is a faction of the TU Delft [Works Council](http
 
 ![Information about the upcoming works council elections](/assets/yri-net-presenter.jpg)
 
-There will be elections for **7** PhD candidate seats in the OR on the **1st and 2nd of April 2025**! This means there is a chance for passionate PhDs to work towards a better TU Delft!
+On 13 and 14 October you can choose who will represent your voice in the works council! Candidates are of various factions, Young Researchers’ Impact being one of them. Are you curious to hear about what we do? Or eager to give input, get involved or even become a candidate? Find us at one of the upcoming events, click the link below, or reach out to YRI@tudelft.nl!
 
 Find more information [here](/join-the-or/).
-
-If you're interested reach out to current YRI / OR member [Wo Meijer](https://www.tudelft.nl/io/over-io/personen/meijer-w) - w.i.m.t.meijer [at] tudelft.nl
 
