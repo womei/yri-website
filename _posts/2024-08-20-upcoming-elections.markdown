@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  "Join the OR!"
+title:  "Becoming a candidate"
 date:   2024-08-20 09:51:41 +0200
 categories: elections
 permalink: /join-the-or/
 ---
 
-There will be elections for at least **7** PhD candidate seats in the OR on the **1st and 2nd of April 2025**! This means there is a chance for passionate PhDs to work towards a better TU Delft!
-
-If you're interested reach out to current YRI / OR member [Wo Meijer](https://www.tudelft.nl/io/over-io/personen/meijer-w) - w.i.m.t.meijer [at] tudelft.nl
+There will be OR elections on the 13st and 14th of October 2026! This means there is a chance for passionate PhDs to work towards a better TU Delft!
+If you’re interested reach out through an email to YRI@tudelft.nl.
 
 ### Dates
-
-- February 12th, 2025 12:00-13:30, Building 26-B, 2nd floor.: information session
-- March 4, 2025: deadline to register with a faction (do this by reaching out to that fraction)
-- April 1 & 2, 2025: election day
+To get into contact, gather your input and for those interested, exploring how you can get involved we’re organizing various information session/workshops:
+- June 17th – Evening discussion + pub quiz
+- July 14th/16th – Meet us outdoor
+- August 27th – Lunch info session
+- September 10th – Evening OR debate
+*A link to subscribe for one/multiple of these events will be added to this page soon
 
 ### Requirements
 
@@ -37,21 +38,17 @@ Practically, the workload averages to 1 day a week (some weeks more time, some w
 
 #### Interview with OR members
 
-Want to know more about the OR and what is is like, read the interviews from the Delta with YRI member [Rebekka van der Grift](https://delta.tudelft.nl/en/article/its-important-young-researchers-are-represented-work-council), FNV member [Ronald Kuil](https://delta.tudelft.nl/en/article/people-do-not-realise-what-the-works-council-can-do-for-them), Democratisch Beleid member [Maaike Swarte](https://delta.tudelft.nl/en/article/we-campaigned-so-phd-candidates-can-have-seat-works-council), and Academisch Belang member [Winke Kloosterman](https://delta.tudelft.nl/en/article/you-can-shake-tree-harder-works-council).
+Want to know more about the OR and what is is like, read the interviews Delta wrote in the last election cycle with YRI member [Rebekka van der Grift](https://delta.tudelft.nl/en/article/its-important-young-researchers-are-represented-work-council), FNV member [Ronald Kuil](https://delta.tudelft.nl/en/article/people-do-not-realise-what-the-works-council-can-do-for-them), Democratisch Beleid member [Maaike Swarte](https://delta.tudelft.nl/en/article/we-campaigned-so-phd-candidates-can-have-seat-works-council), and Academisch Belang member [Winke Kloosterman](https://delta.tudelft.nl/en/article/you-can-shake-tree-harder-works-council).
 
 #### The OR
 
 The OR is a functionary body of the TU Delft, there is a [rich description of what the role of the OR is on the TU Delft Intranet](https://intranet.tudelft.nl/-/works-council). The OR is a body that is consulted by the Executive Board on a wide range of topics, such as the budget, the annual report, the strategic plan, and the policy on social safety. The OR has the right to advise on these topics and can also propose its own initiatives. The OR is also involved in the appointment of new members of the Executive Board and the Supervisory Board.
 
 ## Contact
-
-Interested? Have questions? Reach out to [Wo Meijer](https://www.tudelft.nl/io/over-io/personen/meijer-w) - w.i.m.t.meijer [at] tudelft.nl for general questions
-
-If you would like to know more about the fractions and their goals, reach out to the current members of the OR:
-
-- YRI: Stefanie Horian (ABE) - s.horian [at] tudelft.nl
-- Democratisch Beleid: Marc van den Berg (TNW)  - m.c.vandenberg [at] tudelft.nl
-- FNV: to be announced
-- Academisch Belang: to be announced
-
-or reach out to a OR member who is in your faculty, find the list of members on the [side bar of the OR about page](https://www.tudelft.nl/en/about-tu-delft/organisation/consultation-bodies/ondernemingsraad).
+if you want to catch up with one of the current members of the faction (rather than through our faction mail address) – you can email us directly:
+Stefanie Horian (ABE) - s.horian@tudelft.nl
+Jiwon Jung (IDE) – j.jung-1@tudelft.nl
+Anandini Jayanthi (AE) – a.s.jayanthi@tudelft.nl
+Gijs Brouwer (AS) – g.j.a.brouwer@tudelft.nl
+Elisabeth Tschavgova (IDE) – e.tschavgova@tudelft.nl
+Annabel Broer (ME) – a.broer@tudelft.nlww.tudelft.nl/en/about-tu-delft/organisation/consultation-bodies/ondernemingsraad).
