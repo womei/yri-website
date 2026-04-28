@@ -11,7 +11,7 @@ Our vision is grounded in 6 fundamental pillars:
 
 #### 1 Closing the Gap: Representing the Future of TU Delft
 
-Currently, there are 3,154 PhD candidates employed by TU Delft, accounting for 1/3 of employees (see annual report from TU Delft 2022). However, until today, they have not been represented in the Works Council. Young Researchers’ Impact (YRI) aspires to change that by giving a voice to the next generation of academics. We believe it is essential to have a dedicated representation that understands the unique challenges of early career researchers and actively works towards solutions that benefit us all.
+Currently,there are over 3400 PhD candidates working at TU Delft, and they make up 1/3rd of the universities PhDs (figures from December 2025*). Add to this the post-docs, young assistant professors and other research staff, and you quickly see that young professionals make up a significant amount of TU Delft employees. Young Researchers’ Impact (YRI) gives a voice to these employees.. However, until today, they have not been represented in the Works Council. Young Researchers’ Impact (YRI) aspires to change that by giving a voice to the next generation of academics. We believe it is essential to have a dedicated representation that understands the unique challenges of early career researchers and actively works towards solutions that benefit us all.
 
 #### 2 Supporting Temporary Contracts and Preserving Academic Freedom
 
@@ -33,3 +33,6 @@ Achieving a healthy work-life balance is essential for personal well-being and p
 
 The pursuit of knowledge often thrives on the sharing of ideas and collaboration. YRI will actively support information-sharing and networking initiatives that facilitate the exchange of ideas, interdisciplinary research, and academic growth. By nurturing connections within our community, we can tap into our collective potential and advance the boundaries of knowledge.
 Together, as YRI, we can shape policies and create an academic community that not only values individual growth but also empowers collective progress. By prioritizing the needs of early career researchers, fostering sustainability and innovation, embracing diversity and inclusivity, and promoting work-life balance, we can ensure that our beloved institution, TU Delft, remains a beacon of academic excellence and positive impact.
+
+
+* See [facts and figures page](https://www.tudelft.nl/over-tu-delft/organisatie/feiten-en-cijfers) – If we also account for the PhDs that are not paid by the university, but that do work at TU Delft – they make up around 40% of the employees
