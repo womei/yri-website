@@ -12,16 +12,15 @@ If you’re interested reach out through an email to YRI@tudelft.nl.
 ### Dates
 To get into contact, gather your input and for those interested, exploring how you can get involved we’re organizing various information session/workshops:
 - June 17th – Evening discussion + pub quiz
-- July 14th/16th – Meet us outdoor
-- August 27th – Lunch info session
-- September 10th – Evening OR debate
-*A link to subscribe for one/multiple of these events will be added to this page soon
+Register here [https://www.aanmelder.nl/175594/home](https://www.aanmelder.nl/175594/home)
+- June 30th – Lunch meeting
+- Register via reply on the “Flits” email (to be sent in May)
+- August 27th – Join us at Mekelpark for some ice cream! No registration needed
+- September 10th – Evening OR debate - Registrations will open and added to this page soon
 
 ### Requirements
 
-There is only one hard requirement:
-
-- be employed by the TU Delft directly (not external PhD) for at least 6 months prior to the elections, i.e. 1st of October 2024
+The only strong requirement is that you are employed by the TU Delft directly (not external PhD) for at least 3 months prior to the elections, i.e. 13 July 2026
 
 However, it is important that candidates have the time, enthusiasm, and motivation to represent the employees of the TU Delft.
 
@@ -45,10 +44,17 @@ Want to know more about the OR and what is is like, read the interviews Delta wr
 The OR is a functionary body of the TU Delft, there is a [rich description of what the role of the OR is on the TU Delft Intranet](https://intranet.tudelft.nl/-/works-council). The OR is a body that is consulted by the Executive Board on a wide range of topics, such as the budget, the annual report, the strategic plan, and the policy on social safety. The OR has the right to advise on these topics and can also propose its own initiatives. The OR is also involved in the appointment of new members of the Executive Board and the Supervisory Board.
 
 ## Contact
-if you want to catch up with one of the current members of the faction (rather than through our faction mail address) – you can email us directly:
+you can email us directly:
 Stefanie Horian (ABE) - s.horian@tudelft.nl
+
 Jiwon Jung (IDE) – j.jung-1@tudelft.nl
+
 Anandini Jayanthi (AE) – a.s.jayanthi@tudelft.nl
+
+Stefan de Boer (AE) - s.deboer-2@tudelft.nl
+
 Gijs Brouwer (AS) – g.j.a.brouwer@tudelft.nl
+
 Elisabeth Tschavgova (IDE) – e.tschavgova@tudelft.nl
-Annabel Broer (ME) – a.broer@tudelft.nlww.tudelft.nl/en/about-tu-delft/organisation/consultation-bodies/ondernemingsraad).
+
+Annabel Broer (ME) – a.broer@tudelft.nl
