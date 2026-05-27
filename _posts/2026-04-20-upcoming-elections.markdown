@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Becoming a candidate"
-date:   2024-08-20 09:51:41 +0200
+date:   2026-04-20 09:51:41 +0200
 categories: elections
 permalink: /join-the-or/
 ---
