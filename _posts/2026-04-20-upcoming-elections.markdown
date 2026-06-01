@@ -12,11 +12,11 @@ If you’re interested reach out through an email to YRI@tudelft.nl.
 ### Dates
 To get into contact, gather your input and for those interested, exploring how you can get involved we’re organizing various information session/workshops:
 - June 17th – Evening discussion + pub quiz
-Register here [https://www.aanmelder.nl/175594/home](https://www.aanmelder.nl/175594/home)
+- Register here [https://www.aanmelder.nl/175594/home](https://www.aanmelder.nl/175594/home)
 - June 30th – Lunch meeting
-Register via reply on the “Flits” email (to be sent in May)
+- Register via reply on the “Flits” email (to be sent in May)
 - August 27th – Join us at Mekelpark for some ice cream!
-No registration needed
+- No registration needed
 - September 10th – Evening OR debate -
 Registrations will open soon, find us here again!
 
