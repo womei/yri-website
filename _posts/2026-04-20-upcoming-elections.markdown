@@ -14,9 +14,11 @@ To get into contact, gather your input and for those interested, exploring how y
 - June 17th – Evening discussion + pub quiz
 Register here [https://www.aanmelder.nl/175594/home](https://www.aanmelder.nl/175594/home)
 - June 30th – Lunch meeting
-- Register via reply on the “Flits” email (to be sent in May)
-- August 27th – Join us at Mekelpark for some ice cream! No registration needed
-- September 10th – Evening OR debate - Registrations will open and added to this page soon
+Register via reply on the “Flits” email (to be sent in May)
+- August 27th – Join us at Mekelpark for some ice cream!
+No registration needed
+- September 10th – Evening OR debate -
+Registrations will open soon, find us here again!
 
 ### Requirements
 
