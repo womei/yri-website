@@ -43,7 +43,7 @@ The OR is a functionary body of the TU Delft, there is a [rich description of wh
 
 ## Contact
 you can email us directly:
-Stefanie Horian (ABE) - s.horian@tudelft.nl
+Stefanie Horian (ABE) - @s.horian@tudelft.nl
 
 Jiwon Jung (IDE) – j.jung-1@tudelft.nl
 
