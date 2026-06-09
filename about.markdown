@@ -10,7 +10,15 @@ YRI is a faction for the [TU Delft Works Council](https://www.tudelft.nl/en/abou
 ## Who is YRI?
 
 Currently YRI has 6 members in the works council:
+- Stefanie Horian (ABE)
+- Jiwon Jung (IDE)
+- Annabel Broer (ME)
+- Elisabeth Tschavgova (IDE)
+- Gijs Brouwer (AS) 
+- Anandini Jayanthi (AE)
 
+Alumni:
+Term - 2023 - 2025
 - Rebekka van der Grift (AE)
 - Stefanie Horian (ABE)
 - Katerina Isaakidou (ME)
